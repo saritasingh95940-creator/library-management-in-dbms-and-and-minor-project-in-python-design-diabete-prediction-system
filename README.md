@@ -1,2 +1,18 @@
-# library-management-in-dbms-and-and-minor-project-in-python-design-diabete-prediction-system
-the repository contains lab programs and assignments for the minor project in python and a simple library management program and assignments for the project
+# Library Management System
+
+## Description
+This project is a Library Management System developed using Python and DBMS.
+
+## Features
+- Add books
+- Issue books
+- Return books
+- Student records
+
+## Technologies Used
+- Python
+- MySQL / SQLite
+
+## How to Run
+1. Install Python
+2. Run main.py
